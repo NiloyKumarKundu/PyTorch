@@ -1,5 +1,7 @@
 numpy==1.26.3
 pandas==2.2.1
+seaborn==0.13.2
+scikit-learn==1.4.1.post1
 
 --find-links https://download.pytorch.org/whl/torch_stable.html
 torch==2.2.1+cu121
